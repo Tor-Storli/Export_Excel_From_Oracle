@@ -95,8 +95,9 @@ and the two may or may not correspond exactly. For example, an error occurs if s
 but the corresponding operating system directory does not have READ permission defined for Oracle Database processes.
 
 <i><b>Source:</b> 
-** Oracle Package: AS_XLSX 
-** Author: Anton Scheffer
-** Date: 19-02-2011
-** Website: http://technology.amis.nl/blog
-** See also: http://technology.amis.nl/blog/?p=10995</i>
+Oracle Package: AS_XLSX </br>
+Author: Anton Scheffer</br>
+Date: 19-02-2011</br>
+Website: http://technology.amis.nl/blog</br>
+See also: http://technology.amis.nl/blog/?p=10995</i></br>
+AS_XLSX: https://technology.amis.nl/languages/oracle-plsql/create-an-excel-file-with-plsql/<i>
