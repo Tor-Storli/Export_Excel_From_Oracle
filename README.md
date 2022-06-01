@@ -34,11 +34,21 @@ The scripts does the following:
 
 
 ![Cover image](Masterscript.png)
+</br></br>
+5. In Sql Developer - Login as **SYSTEM** user. </br>Place the above text (4. above) in an empty query window and click the "Run Script" button to start (See screenshot below).
+</br></br>
 
-5. In Sql Developer - Login as **SYSTEM** user.</br> Place the above text (4. above) in an empty query window and click the "Run Script" button to start (See screenshot below).
+![Cover image](Run_Masterscript.png)</br></br>
 
+## View **exceldemo** schema in SQL Developer:
 
-![Cover image](Run_Masterscript.png)</br>
+1. Create a new connection in SQL Developer.
+2. Populate the connection information
+3. Add password:  **exceldemo**
+
+*See screenshot below:*
+</br></br>
+![Cover image](Login_exceldemo.png)</br>
 
 ## Re-Running the scripts:
 
